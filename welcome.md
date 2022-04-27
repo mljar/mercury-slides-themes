@@ -1,26 +1,33 @@
 # Slides themes
 
-[Mercury](https://github.com/mljar/mercury) framework can convert Python notebook into interactive slides!
+[Mercury](https://github.com/mljar/mercury) framework can convert Python notebook into interactive slides! This website code is available on the [GitHub](https://github.com/mljar/mercury-slides-themes).
 
-This website code is available on the [GitHub](https://github.com/mljar/mercury-slides-themes).
-
-
-#### Light themes:
+<table style="width: 100%;border: none;">
+ <tr>
+  <td>
+<h4> Light themes: </h4>
 
 - white (default)
-- sky 
+- sky
 - beige
 - simple
 - serif
 - solarized
 
-#### Dark themes:
+  </td>
+  <td>
+<h4> Dark themes: </h4>
 
 - black
 - league
 - blood
 - night
 - moon
+
+
+  </td>
+ </tr>
+</table>
 
 To use the theme in the Mercury YAML configuration you need to define `format`. The example below:
 

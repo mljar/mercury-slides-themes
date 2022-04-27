@@ -1,4 +1,4 @@
-mljar-mercury
+mljar-mercury>=0.6.16
 pandas
 matplotlib
 plotly
