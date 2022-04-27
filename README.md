@@ -21,7 +21,19 @@ You can check slides themes in [the app](https://slides-themes.herokuapp.com/).
 - night
 - moon
 
-### List of themes
+To use the theme in the Mercury YAML configuration you need to define `format`. The example below:
+
+```yaml
+title: My app
+output: slides
+format:
+    theme: night
+# the rest of YAML ...
+```
+
+Please check the [docs](https://mercury-docs.readthedocs.io/en/latest/interactive-slides/) for more information.
+
+### Themes gallery
 
 The app is deployed at [Heroku](https://slides-themes.herokuapp.com/).
 
